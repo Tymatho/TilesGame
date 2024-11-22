@@ -1,0 +1,30 @@
+# Dossiers générés par Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Fichiers temporaires et binaires
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+
+# Fichiers utilisateur
+*.suo
+*.user
+*.ipch
+
+# Fichiers d'en-têtes précompilés
+*.pch
+
+# Fichiers de configuration temporaires
+*.log
+*.tmp
+*.bak
+*.old
